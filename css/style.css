@@ -1,0 +1,97 @@
+/* CSS Document */
+table.ch-calendar {
+  border: 1px solid #bbb !important;
+  border-collapse: separate !important;
+}
+table.ch-calendar td {
+    font-size: 90%;
+}
+table.ch-calendar td.comment {
+    width: 25%;
+}
+h3 {
+  font-size: 20px;
+  font-variant : small-caps;
+}
+.chform {
+	border: 1px solid #111; 
+	border-radius: 10px; 
+	padding: 10px; 
+	overflow: hidden;
+  /* background-image: linear-gradient(to bottom, #fff 0%, #ff4111 90%, #000); */
+}
+.chform form {
+	overflow: hidden;
+  /* background-image: linear-gradient(to right, #FFF 30%, #ff4111 60%);
+  border-radius: 10px; */
+}
+.chform label {
+  background: #eee;
+  display: block;
+  font-size: 0.8em;
+  text-align: center;
+  margin: 0px 0 -23px 1px;
+  padding: 2px 3px;
+}
+.chform select {
+  margin-left: 1px;
+  min-width: 50px;
+}
+.chform textarea {
+  width: 261px;
+}
+/*--------------------*/
+@media only screen and (max-width: 820px) {
+  .entry-content table {
+    display: block;
+    overflow: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .entry-content table::before {
+    content: "Glisser ce tableau horizontalement !";
+    color: #fff;
+    background: #ff4111;
+    font-style: italic;
+    padding: 2px 10px;
+  }
+}
+/*--------------------*/
+.circle {
+ display: inline-block;
+ border-radius: 50%;
+ background: radial-gradient(circle at 30% 30%, #ffcc00, #f00);
+}
+.bubbles {
+  position:relative;
+  height: 500px;
+}
+.bubbles p {
+  clear: both;
+  padding: 10px;
+}
+#grid {
+  padding: 10px;
+  width: 760px;
+}
+.cell {
+  border: 1px solid #ccc;
+  width: 22.7px;
+  height: 16.6px;
+  float: left;
+  border-bottom: none;
+  border-right: none;
+}
+.hour, .day {
+  border: none;
+  font-size: 10px;
+  text-align: center;
+}
+.hour {
+  padding-top: 6px;
+  border: none;
+}
+.day {
+  left: -10px;
+  position: relative;
+}

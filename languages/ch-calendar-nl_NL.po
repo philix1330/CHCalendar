@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CH Calendar\n"
+"POT-Creation-Date: 2020-11-29 16:31+0100\n"
+"PO-Revision-Date: 2020-11-29 16:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ch-calendar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: ch-calendar.php:105 ch-calendar.php:237 ch-calendar.php:552
+#: ch-calendar.php:628 ch-calendar.php:689 ch-calendar.php:749
+msgid "You must be connected to access the calendar."
+msgstr "U moet verbonden zijn om toegang te krijgen tot de kalender."
+
+#: ch-calendar.php:112
+msgid "Full table:"
+msgstr "Volledige tabel:"
+
+#: ch-calendar.php:116
+msgid "You must be an administrator to access this option."
+msgstr "U moet een beheerder zijn om toegang te krijgen tot deze optie."
+
+#: ch-calendar.php:124
+msgid "Result for:"
+msgstr "Resultaten voor:"
+
+#: ch-calendar.php:137 ch-calendar.php:571 ch-calendar.php:761
+msgid "Your calendar is empty."
+msgstr "Je kalender is leeg."
+
+#: ch-calendar.php:157 ch-calendar.php:581
+msgid "Date"
+msgstr "Datum"
+
+#: ch-calendar.php:158 ch-calendar.php:411 ch-calendar.php:447
+#: ch-calendar.php:582
+msgid "Hour"
+msgstr "Uur"
+
+#: ch-calendar.php:159 ch-calendar.php:199 ch-calendar.php:583
+msgid "Duration"
+msgstr "Duur"
+
+#: ch-calendar.php:160 ch-calendar.php:199 ch-calendar.php:474
+#: ch-calendar.php:584
+msgid "Intensity"
+msgstr "Intensiteit"
+
+#: ch-calendar.php:161 ch-calendar.php:490 ch-calendar.php:585
+msgid "Treatment"
+msgstr "Behandeling"
+
+#: ch-calendar.php:162 ch-calendar.php:586
+msgid "Comment"
+msgstr "Commentaar"
+
+#: ch-calendar.php:174 ch-calendar.php:218
+msgid "Number of attacks in the month:"
+msgstr "Aantal aanvallen in de maand:"
+
+#: ch-calendar.php:268
+msgid "Record added to your calendar:"
+msgstr "Record toegevoegd aan uw kalender:"
+
+#: ch-calendar.php:268 ch-calendar.php:663 ch-calendar.php:723
+msgid "Date: "
+msgstr "Datum: "
+
+#: ch-calendar.php:268 ch-calendar.php:663 ch-calendar.php:723
+msgid "Duration: "
+msgstr "Duur: "
+
+#: ch-calendar.php:268 ch-calendar.php:663 ch-calendar.php:723
+msgid "Intensity: "
+msgstr "Intensiteit: "
+
+#: ch-calendar.php:268 ch-calendar.php:663 ch-calendar.php:723
+msgid "Treatment: "
+msgstr "Behandeling: "
+
+#: ch-calendar.php:268 ch-calendar.php:663 ch-calendar.php:723
+msgid "Comment: "
+msgstr "Commentaar: "
+
+#: ch-calendar.php:285
+msgid "Add a new attack in your calendar"
+msgstr "Een nieuwe aanval toevoegen aan uw kalender"
+
+#: ch-calendar.php:313
+msgid "Graphic for"
+msgstr "Grafisch voor"
+
+#: ch-calendar.php:360
+msgid "Date and time of the attack"
+msgstr "Datum en tijdstip van de aanval"
+
+#: ch-calendar.php:366
+msgid "Day"
+msgstr "Dag"
+
+#: ch-calendar.php:381
+msgid "Month"
+msgstr "Maand"
+
+#: ch-calendar.php:396
+msgid "Year"
+msgstr "Jaar"
+
+#: ch-calendar.php:426 ch-calendar.php:458
+msgid "Minute"
+msgstr "Minuut"
+
+#: ch-calendar.php:443
+msgid "Duration of the attack"
+msgstr "Duur van de aanval"
+
+#: ch-calendar.php:470
+msgid "Intensity of the attack"
+msgstr "Intensiteit van de aanval"
+
+#: ch-calendar.php:486
+msgid "Treatment of the attack"
+msgstr "Behandeling van de aanval"
+
+#: ch-calendar.php:495
+msgid "None"
+msgstr "Geen"
+
+#: ch-calendar.php:496 ch-calendar.php:497 ch-calendar.php:498
+msgid "Oxygen"
+msgstr "Zuurstof"
+
+#: ch-calendar.php:499
+msgid "Oxygen valve on demand"
+msgstr "Zuurstof door op verzoek klep"
+
+#: ch-calendar.php:507
+msgid "Other"
+msgstr "Andere"
+
+#: ch-calendar.php:517
+msgid "Comments"
+msgstr "Commentaren"
+
+#: ch-calendar.php:521
+msgid "Describe the characteristics of the attack"
+msgstr "Beschrijf de kenmerken van de aanval"
+
+#: ch-calendar.php:528
+msgid "Add"
+msgstr "Toevoegen"
+
+#: ch-calendar.php:529
+msgid "Delete"
+msgstr "Verwijder"
+
+#: ch-calendar.php:530
+msgid "Modify"
+msgstr "Wijzigen"
+
+#: ch-calendar.php:580
+msgid "Choice"
+msgstr "Keuze"
+
+#: ch-calendar.php:663
+msgid "Record modified:"
+msgstr "Record gewijzigd:"
+
+#: ch-calendar.php:666 ch-calendar.php:668
+msgid "Select the attack to be modified. Then modify it in the form."
+msgstr ""
+"Selecteer de aanval die gewijzigd moet worden. Wijzig het dan in het "
+"formulier."
+
+#: ch-calendar.php:723
+msgid "Record deleted:"
+msgstr "Record verwijderd:"
+
+#: ch-calendar.php:726 ch-calendar.php:728
+msgid "Select the attack to be deleted. Then confirm it in the form."
+msgstr ""
+"Selecteer de aanval die moet worden verwijderd. Bevestig het dan in het "
+"formulier."
+
+#: ch-calendar.php:771
+msgid "Your calendar has been deleted."
+msgstr "Uw kalender is verwijderd."
+
+#: ch-calendar.php:775
+msgid "Erase all your data"
+msgstr "Verwijder al uw gegevens"
+
+#: ch-calendar.php:776
+msgid "Are you sure you want to delete your calendar?"
+msgstr "Bent u er zeker van dat u uw kalender wilt verwijderen?"
+
+#: ch-calendar.php:779
+msgid "I confirm"
+msgstr "Ik bevestig"
+
+#: ch-calendar.php:793
+msgid "You must be connected to create your member card."
+msgstr "U moet verbonden zijn om uw lidkaart aan te maken."
+
+#: ch-calendar.php:800
+msgid "administrator"
+msgstr "Beheerder"
+
+#: ch-calendar.php:802
+msgid "Member N°: "
+msgstr "Lid N°: "
+
+#: ch-calendar.php:807
+msgid "First name: "
+msgstr "Voornaam: "
+
+#: ch-calendar.php:807
+msgid "Name: "
+msgstr "Naam: "
+
+#. Plugin Name of the plugin/theme
+msgid "CH Calendar"
+msgstr "CH Calendar"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.philix.be/"
+msgstr "https://www.philix.be/"
+
+#. Description of the plugin/theme
+msgid "Cluster Headache attacks calendar"
+msgstr "Cluster Hoofdpijn aanvallen kalender"
+
+#. Author of the plugin/theme
+msgid "Philix"
+msgstr "Philix"
+
+#~ msgid "January"
+#~ msgstr "Januari"
+
+#~ msgid "February"
+#~ msgstr "Februari"
+
+#~ msgid "March"
+#~ msgstr "Maart"
+
+#~ msgid "April"
+#~ msgstr "April"
+
+#~ msgid "May"
+#~ msgstr "Mei"
+
+#~ msgid "June"
+#~ msgstr "Juni"
+
+#~ msgid "July"
+#~ msgstr "Juli"
+
+#~ msgid "August"
+#~ msgstr "Augustus"
+
+#~ msgid "September"
+#~ msgstr "September"
+
+#~ msgid "October"
+#~ msgstr "Oktober"
+
+#~ msgid "November"
+#~ msgstr "November"
+
+#~ msgid "December"
+#~ msgstr "December"
+
+#~ msgid "You must be connected to access this page."
+#~ msgstr "U moet verbonden zijn om toegang te krijgen tot deze pagina."
+
+#~ msgid "Supporter"
+#~ msgstr "Sympathiserend"
+
+#~ msgid "Associate"
+#~ msgstr "Toegetreden"
+
+#~ msgid "Full"
+#~ msgstr "Vast"
+
+#~ msgid "Select"
+#~ msgstr "Selecteer"
+
+#~ msgid "Mod"
+#~ msgstr "Wijzigen"
+
+#~ msgid ""
+#~ "First select the attack in the list below and then modify it in the form."
+#~ msgstr ""
+#~ "Selecteer eerst de aanval in de onderstaande lijst en wijzig deze "
+#~ "vervolgens in het formulier."
