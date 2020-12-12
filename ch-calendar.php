@@ -77,13 +77,6 @@ add_action( 'plugins_loaded', 'ch_calendar_load_plugin_textdomain' );
  * "user" permet à chaque utilisateur de lire les enregistrements qui le concerne uniquement
 **/
 
-// date_default_timezone_set('Europe/Brussels'); Ne peut pas être utilisé car perturbe le cœur de WordPress
-
-
-/** 
- * Lecture de la table des crises
- * la fonction accepte un paramètre et deux valeurs
-**/ 
 function ch_calendar_read($attr) {
 
     // Récupérer le paramètre du shortcode (défaut : 'user') 
