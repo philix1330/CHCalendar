@@ -92,7 +92,7 @@ function ch_calendar_read($attr) {
     // Sécurité : vérifier que le paramètre est égal à 'all' (réservé à la page "admin reserved") ou 'user' (utilisateur courant)
     $parmList = array('all', 'user');
 
-    // Simuler une page d'erreur 403 "forbidden" si le paramètre est incorrecte et renvoyer une erreur 403
+    // Simuler une page d'erreur 403 "forbidden" si le paramètre est incorrecte et renvoyer une pseudo erreur 403
     if (!in_array($args['uid'], $parmList)) {
         $chHTMLCode = '<h1 style="font-weight: bold;font-size: 3vw; text-align: center;">Error 403 forbiden</h1>';
         return $chHTMLCode;
